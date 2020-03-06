@@ -1,0 +1,6 @@
+#FileLock
+#Fri Mar 06 09:04:50 CAT 2020
+hostName=linux.lan002
+id=170aea93749589d53fd8d1eaa2090e43f52ede2cd61
+method=file
+server=16.67.140.1\:45441
